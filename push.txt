@@ -1,0 +1,6 @@
+git add .
+git commit -m "Menambahkan fitur baru
+
+Co-authored-by: beacukiy <beacukiy@users.noreply.github.com>
+Co-authored-by: hakutakaid <hakutakaid@users.noreply.github.com>"
+giit push
